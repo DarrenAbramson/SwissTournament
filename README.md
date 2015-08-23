@@ -1,5 +1,5 @@
 # SwissTournament
-# Full Stack Development P2: Tournament Results
+### Full Stack Development P2: Tournament Results
 
 This director provides the two files needed to pass all of the tests defined in `tournament_test.py`. 
 
